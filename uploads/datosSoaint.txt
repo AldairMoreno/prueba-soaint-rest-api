@@ -1,0 +1,6 @@
+Id, name, age,gender
+1,John,25,M
+2,David,37,M
+3,Jennifer,28,F
+4,Tina,23,F
+5,Patrick,43,M
